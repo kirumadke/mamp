@@ -2,5 +2,6 @@
 echo phpinfo();
 /*test*/
 /*second*/
+/*third*/
 	 ?>
 
